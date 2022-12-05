@@ -1,0 +1,41 @@
+body{
+    text-align: center;
+}
+
+h1{
+    font-size: 40px;
+    font-family: sans-serif;
+}
+
+#Apps{
+    background-color: aqua;
+}
+
+/*#Jogos{
+    background-color: rgb(255, 0, 179);
+}
+
+#Chatbot{
+    background-color: yellow;
+}*/
+
+.line{
+    height: 6px;
+    background-color: white;
+    width: 70px;
+    margin: 8px auto;
+}
+
+#myCarousel{
+    background-color: hotpink;
+}
+
+#myCarrosel{
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p{
+    margin-top: 15px;
+    
+}
